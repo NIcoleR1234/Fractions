@@ -1,7 +1,4 @@
-/*
-CPS 271 MP3
-Nicole Ramanathan
-*/
+
 #include <iostream>
 #include <string>
 #include "Fraction.h"
